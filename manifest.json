@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "RadicaleStorageByIndex",
+  "versions": [
+    {
+      "commit": "3325886e3e75d9b8924a1b8fc44b396fc611b722",
+      "parsed_at": "2026-10-28T17:18:01.580518+00:00",
+      "filetree": "filetree/3325886e3e75d9b8924a1b8fc44b396fc611b722.nq.gz",
+      "blobs": [
+        "blob/7c0a543e1436d6e9c20a3e4268edee28a985205e.nq.gz",
+        "blob/5a6ed24630365ac3393a386041c5832dc0ae5521.nq.gz",
+        "blob/ac890d34dd56e5e5b445ac9097a91e9cea982376.nq.gz",
+        "blob/7c09649ca807f266027323770fd5ab5b3e4eeef5.nq.gz",
+        "blob/8e0e6bb0eeba7945949310a5634f8c3e411c5f8e.nq.gz",
+        "blob/43e9ba512b51ee97315b25c7ef233eafae210616.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
